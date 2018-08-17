@@ -1,0 +1,17 @@
+#banner {
+  margin-top:50px;
+}
+
+.icon {
+  width: 50px;
+  margin-top: 15px;
+  margin-right: 15px;
+}
+
+body {
+  user-select: none;
+}
+
+a {
+  text-decoration-color: #333333;
+}
